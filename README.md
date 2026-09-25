@@ -1,6 +1,6 @@
-# Dusklight Randomizer
+# Modifications for the official dusklight randomizer mod, purely translation
 
-The official randomizer mod for [Dusklight](https://github.com/TwilitRealm/dusklight).
+The Swedish translation mod for [Dusklight](https://github.com/TwilitRealm/dusklight).
 
 ## Building
 
